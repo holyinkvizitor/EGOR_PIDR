@@ -1,0 +1,15 @@
+{
+  "clientToken": "3222d811-1d8b-4d24-b7a0-1da63382f7b2",
+  "accounts": {
+    "bd96fb696ac34c02be39eeacd6db6e50": {
+      "username": "holyinkvizitor",
+      "userID": "holyinkvizitor",
+      "displayName": "holyinkvizitor",
+      "uuid": "bd96fb696ac34c02be39eeacd6db6e50",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "bd96fb696ac34c02be39eeacd6db6e50",
+  "freeAccountUUID": "bd96fb696ac34c02be39eeacd6db6e50"
+}
