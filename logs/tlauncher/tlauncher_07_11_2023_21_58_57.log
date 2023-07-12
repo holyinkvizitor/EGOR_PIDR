@@ -1,0 +1,715 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.885 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 11.07.2023 21:58:59
+Running folder C:\Users\max\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 16304 MB RAM
+java path=C:\Users\max\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+ Intel(R) HD Graphics 630, Intel(R) HD Graphics Family, 8280 MB, NVIDIA GeForce GTX 1050 Ti, NVIDIA GeForce GTX 1050 Ti, 12172 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.2.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.2.json?version=2.885&client=0d89fa4e-bb30-41e3-b562-3d379541be6c
+[Browser] Loading resources...
+[Updater] Request time: 357 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.2.json
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 31 / 197 MB
+Garbage collector completed: 17 / 231 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\max\Desktop\new folder\EGOR_PIDR
+[ProfileManager] Refreshing profiles from: C:\Users\max\Desktop\new folder\EGOR_PIDR\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Loading] LOADING_WINDOW
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 87 ms.
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+[Browser@10859545] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+flush now
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+Started! (3563 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 67 ms.
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 58 ms.
+[ExtraVersionList] Got in 139 ms
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 135 ms.
+[SkinVersionList] Got in 150 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 542 ms.
+[OfficialVersionList] Got in 641 ms
+[VersionManager] Versions has been refreshed (744 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+run server on  37842
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 55 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 62 ms.
+[Double running] clear time label
+saved account Account{displayName=штл, userid=штл, uuid=51f991a3c9ab49d69b1516bb754e874f, username=штл}
+save profiles
+onAuthPassed
+saved account Account{displayName=штл, userid=штл, uuid=51f991a3c9ab49d69b1516bb754e874f, username=штл}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.885
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\architectury-6.5.85-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\astikorcarts-1.19.2-1.1.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\bettercombat-forge-1.7.1+1.19.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\blockui-1.19-0.0.69-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\BrewinAndChewin-1.19-2.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\cloth-config-8.2.88-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\create-1.19.2-0.5.1.b.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\diet-forge-2.0.0-beta+1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\domum_ornamentum-1.19-1.0.83-ALPHA-universal.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\fabric-api-0.61.0+1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\FallingTree-1.19.2-3.10.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\FarmersDelight-1.19-1.2.1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\geckolib-forge-1.19-3.1.40.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\gravestone-1.19.2-1.0.1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\guardvillagers-1.19.2-1.5.6.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\immersive_aircraft-0.5.1+1.19.2-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\InventoryProfilesNext-forge-1.19-1.10.6.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\jei-1.19.2-forge-11.6.0.1016.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\journeymap-1.19.2-5.9.7-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\JustEnoughResources-1.19.2-1.2.2.200.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\kotlinforforge-3.12.0-all.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\letsdo-api-forge-1.1.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\letsdo-vinery-forge-1.3.4.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\libIPN-forge-1.19-3.0.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\minecolonies-1.19.2-1.0.1489-BETA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\multipiston-1.19.2-1.2.25-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\NethersDelight-1.19-3.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\OptiFine-1.19.2_HD_U_I1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\player-animation-lib-forge-1.0.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\SereneSeasons-1.19.2-8.1.0.24.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\smallships-1.19.2-2.0.0-Alpha-0.4.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\StorageDrawers-1.19-11.1.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\structurize-1.19.2-1.0.491-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\stylecolonies-1.0.3.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\TheCropReapingMod-1.19.2-2.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\TrampleStopper-3.8.1-build.35+mc1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\[1.19.2-forge]-Epic-Knights-7.11.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\[1.19.2]-Medieval-Siege-Machines-v1.10.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\architectury-6.5.85-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\astikorcarts-1.19.2-1.1.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\bettercombat-forge-1.7.1+1.19.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\blockui-1.19-0.0.69-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\BrewinAndChewin-1.19-2.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\cloth-config-8.2.88-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\create-1.19.2-0.5.1.b.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\diet-forge-2.0.0-beta+1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\domum_ornamentum-1.19-1.0.83-ALPHA-universal.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\fabric-api-0.61.0+1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\FallingTree-1.19.2-3.10.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\FarmersDelight-1.19-1.2.1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\geckolib-forge-1.19-3.1.40.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\gravestone-1.19.2-1.0.1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\guardvillagers-1.19.2-1.5.6.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\immersive_aircraft-0.5.1+1.19.2-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\InventoryProfilesNext-forge-1.19-1.10.6.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\jei-1.19.2-forge-11.6.0.1016.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\journeymap-1.19.2-5.9.7-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\JustEnoughResources-1.19.2-1.2.2.200.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\kotlinforforge-3.12.0-all.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\letsdo-api-forge-1.1.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\letsdo-vinery-forge-1.3.4.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\libIPN-forge-1.19-3.0.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\minecolonies-1.19.2-1.0.1489-BETA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\multipiston-1.19.2-1.2.25-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\NethersDelight-1.19-3.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\OptiFine-1.19.2_HD_U_I1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\player-animation-lib-forge-1.0.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\SereneSeasons-1.19.2-8.1.0.24.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\smallships-1.19.2-2.0.0-Alpha-0.4.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\StorageDrawers-1.19-11.1.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\structurize-1.19.2-1.0.491-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\stylecolonies-1.0.3.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\TheCropReapingMod-1.19.2-2.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\TrampleStopper-3.8.1-build.35+mc1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\[1.19.2-forge]-Epic-Knights-7.11.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\[1.19.2]-Medieval-Siege-Machines-v1.10.jar
+[Launcher] Force update: false
+[Launcher] Selected version: Forge 1.19.2
+[Launcher] Selected account: Account{displayName=штл, userid=штл, uuid=51f991a3c9ab49d69b1516bb754e874f, username=штл}
+[Launcher] Version sync info: VersionSyncInfo{id='Forge 1.19.2',
+local=CompleteVersion{id='Forge 1.19.2', time=Thu Aug 04 12:25:55 MSK 2022, release=Thu Aug 04 12:25:55 MSK 2022, type=modified, class=cpw.mods.bootstraplauncher.BootstrapLauncher, minimumVersion=21, assets='1.19', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@45c94433, libraries=[Library{name='cpw.mods:securejarhandler:2.1.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm:9.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-commons:9.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-tree:9.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-util:9.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-analysis:9.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:accesstransformers:8.0.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.antlr:antlr4-runtime:4.9.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:eventbus:6.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:forgespi:6.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:coremods:5.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='cpw.mods:modlauncher:10.0.8', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:unsafe:0.2.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.electronwill.night-config:core:3.6.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.electronwill.night-config:toml:3.6.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.maven:maven-artifact:3.8.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.jodah:typetools:0.8.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecrell:terminalconsoleappender:1.2.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jline:jline-reader:3.12.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jline:jline-terminal:3.12.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.spongepowered:mixin:0.8.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.openjdk.nashorn:nashorn-core:15.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:JarJarSelector:0.3.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:JarJarMetadata:0.3.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='cpw.mods:bootstraplauncher:1.1.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:JarJarFileSystems:0.3.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:fmlloader:1.19.2-43.2.8', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:logging:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:blocklist:1.0.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:2.2.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.github.oshi:oshi-core:5.8.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:5.10.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna-platform:5.10.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.slf4j:slf4j-api:1.8.0-beta4', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-slf4j18-impl:2.17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:70.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.2.24', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-common:4.1.77.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-buffer:4.1.77.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec:4.1.77.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-handler:4.1.77.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-resolver:4.1.77.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport:4.1.77.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-unix-common:4.1.77.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-classes-epoll:4.1.77.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.1.77.Final:linux-x86_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.1.77.Final:linux-aarch_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.google.guava:failureaccess:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:31.0.1-jre', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.12.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.11.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.15', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.18', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:5.0.28', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:3.11.49', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.5.13', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.4.14', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.5.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.13.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.13.9:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.13.9:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='Forge 1.19.2', time=Thu Aug 04 12:25:55 MSK 2022, release=Thu Aug 04 12:25:55 MSK 2022, type=modified, source=EXTRA_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@45c94433}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\max\Desktop\new folder\EGOR_PIDR\assets\indexes\1.19.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 146 ms.
+[TLauncherManager] add required libraries: Forge 1.19.2
+[VersionManager] Required for version Forge 1.19.2: []
+[TLauncherManager] add required libraries: Forge 1.19.2
+used default java runtime
+Minecraft requires java version: 17, java path: C:\Users\max\Desktop\new folder\EGOR_PIDR\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe
+library will be replaced: com.mojang:authlib:3.11.49 -> org.tlauncher:authlib:3.11.49.5
+library will be replaced: com.mojang:patchy:2.2.10 -> org.tlauncher:patchy:2.2.10
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: true
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\max\Desktop\new folder\EGOR_PIDR\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\max\Desktop\new folder\EGOR_PIDR\versions\Forge 1.19.2\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.3.173 -cp C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\fmlloader\1.19.2-43.2.8\fmlloader-1.19.2-43.2.8.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\tlauncher\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\tlauncher\authlib\3.11.49.5\authlib-3.11.49.5.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9-natives-windows.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\versions\Forge 1.19.2\Forge 1.19.2.jar -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,Forge 1.19.2.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries -p C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\max\Desktop\new folder\EGOR_PIDR -Dlog4j.configurationFile=C:\Users\max\Desktop\new folder\EGOR_PIDR\assets\log_configs\client-1.12.xml cpw.mods.bootstraplauncher.BootstrapLauncher --username штл --version Forge 1.19.2 --gameDir C:\Users\max\Desktop\new folder\EGOR_PIDR --assetsDir C:\Users\max\Desktop\new folder\EGOR_PIDR\assets --assetIndex 1.19 --uuid 51f991a3c9ab49d69b1516bb754e874f --accessToken null --clientId ${clientid} --xuid ${auth_xuid} --userType mojang --versionType modified --width 925 --height 530 --launchTarget forgeclient --fml.forgeVersion 43.2.8 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 --fullscreen
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\architectury-6.5.85-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\astikorcarts-1.19.2-1.1.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\bettercombat-forge-1.7.1+1.19.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\blockui-1.19-0.0.69-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\BrewinAndChewin-1.19-2.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\cloth-config-8.2.88-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\create-1.19.2-0.5.1.b.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\diet-forge-2.0.0-beta+1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\domum_ornamentum-1.19-1.0.83-ALPHA-universal.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\fabric-api-0.61.0+1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\FallingTree-1.19.2-3.10.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\FarmersDelight-1.19-1.2.1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\geckolib-forge-1.19-3.1.40.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\gravestone-1.19.2-1.0.1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\guardvillagers-1.19.2-1.5.6.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\immersive_aircraft-0.5.1+1.19.2-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\InventoryProfilesNext-forge-1.19-1.10.6.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\jei-1.19.2-forge-11.6.0.1016.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\journeymap-1.19.2-5.9.7-forge.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\JustEnoughResources-1.19.2-1.2.2.200.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\kotlinforforge-3.12.0-all.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\letsdo-api-forge-1.1.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\letsdo-vinery-forge-1.3.4.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\libIPN-forge-1.19-3.0.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\minecolonies-1.19.2-1.0.1489-BETA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\multipiston-1.19.2-1.2.25-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\NethersDelight-1.19-3.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\OptiFine-1.19.2_HD_U_I1.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\player-animation-lib-forge-1.0.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\SereneSeasons-1.19.2-8.1.0.24.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\smallships-1.19.2-2.0.0-Alpha-0.4.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\StorageDrawers-1.19-11.1.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\structurize-1.19.2-1.0.491-ALPHA.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\stylecolonies-1.0.3.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\TheCropReapingMod-1.19.2-2.0.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\tl_skin_cape_forge_1.19_1.19.2-1.30.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\TrampleStopper-3.8.1-build.35+mc1.19.2.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\[1.19.2-forge]-Epic-Knights-7.11.jar C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\[1.19.2]-Medieval-Siege-Machines-v1.10.jar
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat []
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] skin system is activated: true
+[Launcher] Starting Minecraft Forge 1.19.2...
+[Launcher] Launching in: C:\Users\max\Desktop\new folder\EGOR_PIDR
+Starting garbage collector: 202 / 397 MB
+Garbage collector completed: 49 / 439 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[21:59:69] [main/INFO]: ModLauncher running: args [--username, штл, --version, Forge 1.19.2, --gameDir, C:\Users\max\Desktop\new folder\EGOR_PIDR, --assetsDir, C:\Users\max\Desktop\new folder\EGOR_PIDR\assets, --assetIndex, 1.19, --uuid, 51f991a3c9ab49d69b1516bb754e874f, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.8, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, --fullscreen]
+[21:59:70] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[21:59:55] [main/INFO]: OptiFineTransformationService.onLoad
+[21:59:55] [main/INFO]: OptiFine ZIP file URL: union:/C:/Users/max/Desktop/new%20folder/EGOR_PIDR/mods/OptiFine-1.19.2_HD_U_I1.jar%23185!/
+[21:59:56] [main/INFO]: OptiFine ZIP file: C:\Users\max\Desktop\new folder\EGOR_PIDR\mods\OptiFine-1.19.2_HD_U_I1.jar
+[21:59:56] [main/INFO]: Target.PRE_CLASS is available
+[21:59:65] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/max/Desktop/new%20folder/EGOR_PIDR/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[21:59:66] [main/INFO]: OptiFineTransformationService.initialize
+[21:59:09] [main/INFO]: Found mod file [1.19.2-forge]-Epic-Knights-7.11.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file [1.19.2]-Medieval-Siege-Machines-v1.10.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file architectury-6.5.85-forge.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file astikorcarts-1.19.2-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file bettercombat-forge-1.7.1+1.19.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file blockui-1.19-0.0.69-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file BrewinAndChewin-1.19-2.0.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file cloth-config-8.2.88-forge.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file create-1.19.2-0.5.1.b.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file diet-forge-2.0.0-beta+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file domum_ornamentum-1.19-1.0.83-ALPHA-universal.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file FallingTree-1.19.2-3.10.0.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file FarmersDelight-1.19-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file geckolib-forge-1.19-3.1.40.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file gravestone-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:09] [main/INFO]: Found mod file guardvillagers-1.19.2-1.5.6.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file immersive_aircraft-0.5.1+1.19.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file InventoryProfilesNext-forge-1.19-1.10.6.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file jei-1.19.2-forge-11.6.0.1016.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file journeymap-1.19.2-5.9.7-forge.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.2.2.200.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file kotlinforforge-3.12.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file letsdo-api-forge-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file letsdo-vinery-forge-1.3.4.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file libIPN-forge-1.19-3.0.2.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file minecolonies-1.19.2-1.0.1489-BETA.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file multipiston-1.19.2-1.2.25-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:10] [main/INFO]: Found mod file NethersDelight-1.19-3.0.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file SereneSeasons-1.19.2-8.1.0.24.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file smallships-1.19.2-2.0.0-Alpha-0.4.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file StorageDrawers-1.19-11.1.2.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file structurize-1.19.2-1.0.491-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file stylecolonies-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file TheCropReapingMod-1.19.2-2.0.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file tl_skin_cape_forge_1.19_1.19.2-1.30.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:12] [main/INFO]: Found mod file TrampleStopper-3.8.1-build.35+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\max\Desktop\new folder\EGOR_PIDR\mods}
+[21:59:30] [main/WARN]: Mod file C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.8\fmlcore-1.19.2-43.2.8.jar is missing mods.toml file
+[21:59:31] [main/WARN]: Mod file C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.8\javafmllanguage-1.19.2-43.2.8.jar is missing mods.toml file
+[21:59:31] [main/WARN]: Mod file C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.8\lowcodelanguage-1.19.2-43.2.8.jar is missing mods.toml file
+[21:59:31] [main/WARN]: Mod file C:\Users\max\Desktop\new folder\EGOR_PIDR\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.8\mclanguage-1.19.2-43.2.8.jar is missing mods.toml file
+[21:59:34] [main/INFO]: Found mod file fmlcore-1.19.2-43.2.8.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56781d96
+[21:59:34] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.2.8.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56781d96
+[21:59:34] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.2.8.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56781d96
+[21:59:34] [main/INFO]: Found mod file mclanguage-1.19.2-43.2.8.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56781d96
+[21:59:34] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56781d96
+[21:59:34] [main/INFO]: Found mod file forge-1.19.2-43.2.8-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@56781d96
+[21:59:51] [main/INFO]: Found 10 dependencies adding them to mods collection
+[21:59:52] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file jankson-1.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file MixinExtras-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file kffmod-3.12.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.8.a-14.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file kfflib-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file create_dragon_lib-1.19.2-1.2.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file kfflang-3.12.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:52] [main/INFO]: Found mod file spectrelib-forge-0.12.4+1.19.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7ec25216
+[21:59:04] [main/INFO]: OptiFineTransformationService.transformers
+[21:59:05] [main/INFO]: Targets: 386
+[21:59:57] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[21:59:40] [main/INFO]: Compatibility level set to JAVA_17
+[21:59:41] [main/ERROR]: Mixin config vinery-common.mixins.json does not specify "minVersion" property
+[21:59:41] [main/ERROR]: Mixin config vinery.mixins.json does not specify "minVersion" property
+[21:59:81] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[21:59:82] [main/INFO]: Launching target 'forgeclient' with arguments [--version, Forge 1.19.2, --gameDir, C:\Users\max\Desktop\new folder\EGOR_PIDR, --assetsDir, C:\Users\max\Desktop\new folder\EGOR_PIDR\assets, --uuid, 51f991a3c9ab49d69b1516bb754e874f, --username, штл, --assetIndex, 1.19, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --fullscreen]
+[21:59:84] [main/WARN]: Reference map 'vinery-forge-refmap.json' for vinery.mixins.json could not be read. If this is a development environment you can ignore this message
+############ Journeymap Coremod Potion Effects Renderer: Injected ############
+[21:59:63] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/data/ChunkRenderData$Builder (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder)
+[21:59:63] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder was not found flywheel.mixins.json:instancemanage.SodiumChunkRenderDataMixin
+[21:59:66] [main/WARN]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[21:59:68] [main/WARN]: Error loading class: de/maxhenkel/easyvillagers/blocks/tileentity/TraderTileentityBase (java.lang.ClassNotFoundException: de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase)
+[21:59:68] [main/WARN]: @Mixin target de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase was not found mixins.ipnext.json:MixinTraderTileEntityBase
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:59:92] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[21:59:92] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
+[21:59:92] [main/WARN]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
+[21:59:92] [main/WARN]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin
+[21:59:92] [main/WARN]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[21:59:92] [main/WARN]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[21:59:41] [main/WARN]: @Final field f_20945_:Ljava/util/Map; in vinery-common.mixins.json:LivingEntityMixin should be final
+[Serene Seasons Transformer]: Transforming m_47480_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Patched 1 calls
+[Serene Seasons Transformer]: Transforming m_47519_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Successfully patched shouldSnow
+[Serene Seasons Transformer]: Transforming m_47480_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Patched 1 calls
+[Serene Seasons Transformer]: Transforming m_47519_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Successfully patched shouldSnow
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+############ Journeymap Coremod Potion Effects Renderer: Injected ############
+[Serene Seasons Transformer]: Transforming m_8107_ ()V in net/minecraft/world/entity/animal/SnowGolem
+[Serene Seasons Transformer]: Patched 1 calls
+[21:59:12] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[Serene Seasons Transformer]: Transforming m_47480_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Patched 1 calls
+[Serene Seasons Transformer]: Transforming m_47519_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Successfully patched shouldSnow
+[21:59:04] [Render thread/WARN]: Assets URL 'union:/C:/Users/max/Desktop/new%20folder/EGOR_PIDR/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23225!/assets/.mcassetsroot' uses unexpected schema
+[21:59:04] [Render thread/WARN]: Assets URL 'union:/C:/Users/max/Desktop/new%20folder/EGOR_PIDR/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23225!/data/.mcassetsroot' uses unexpected schema
+[21:59:05] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:59:67] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:155)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:161)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.Minecraft.m_193585_(Minecraft.java:646)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.Minecraft.<init>(Minecraft.java:405)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.m_239872_(Main.java:176)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.main(Main.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.8/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+Caused by: MinecraftClientHttpException[type=HTTP_ERROR, status=401, response=ErrorResponse[path='/player/attributes', error='null', details=null, errorMessage='null']]
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48)
+	at MC-BOOTSTRAP/authlib@3.11.49.5/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129)
+	... 19 more
+
+[21:59:68] [Render thread/INFO]: Setting user: штл
+[21:59:09] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[21:59:10] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[21:59:38] [Render thread/INFO]: [OptiFine] 
+[21:59:38] [Render thread/INFO]: [OptiFine] OptiFine_1.19.2_HD_U_I1
+[21:59:39] [Render thread/INFO]: [OptiFine] Build: 20221213-150857
+[21:59:39] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[21:59:39] [Render thread/INFO]: [OptiFine] Java: 17.0.3, Microsoft
+[21:59:39] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[21:59:39] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[21:59:40] [Render thread/INFO]: [OptiFine] OpenGL: Intel(R) HD Graphics 630, version 3.2.0 - Build 22.20.16.4708, Intel
+[21:59:41] [Render thread/INFO]: [OptiFine] OpenGL Version: 3.2.0
+[21:59:42] [Render thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[21:59:48] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[21:59:50] [Render thread/INFO]: [Shaders] OpenGL Version: 3.2.0 - Build 22.20.16.4708
+[21:59:50] [Render thread/INFO]: [Shaders] Vendor:  Intel
+[21:59:50] [Render thread/INFO]: [Shaders] Renderer: Intel(R) HD Graphics 630
+[21:59:50] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[21:59:52] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[21:59:52] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[21:59:52] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[21:59:52] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[21:59:52] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[21:59:52] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[21:59:55] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[21:59:55] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[21:59:06] [modloading-worker-0/INFO]: Optifine detected.
+[21:59:37] [modloading-worker-0/INFO]: Create: Dragon Lib 1.2.2 has initialized, ready to support your Create add-ons!
+[21:59:41] [Structurize IO Worker #0/INFO]: Registered structure pack: Warped Netherlands
+[21:59:41] [Structurize IO Worker #0/INFO]: Registered structure pack: Stalactite Caves
+[21:59:41] [Structurize IO Worker #0/INFO]: Registered structure pack: Space Wars
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Shire
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Desert Oasis
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Pagoda
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Minecolonies Original
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Nordic Spruce
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Spruce
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Oak
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Dark Oak
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Birch
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Lost Mesa City
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Jungle Treehouse
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Incan
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Fortress
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Dark Oak Treehouse
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Colonial
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Cavern
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Caledonia
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Urban Birch
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Urban Savanna
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Steampunk
+[21:59:42] [Structurize IO Worker #0/INFO]: Registered structure pack: Byzantine
+[21:59:43] [Structurize IO Worker #0/INFO]: Registered structure pack: Frontier
+[21:59:43] [Structurize IO Worker #0/WARN]: Missing Mod: byg for Pack: Corrupted
+[21:59:43] [Structurize IO Worker #0/INFO]: Registered structure pack: Antique
+[21:59:43] [Structurize IO Worker #0/INFO]: Registered structure pack: Crimson Keep
+[21:59:43] [Structurize IO Worker #0/INFO]: Registered structure pack: Underwater Base
+[21:59:43] [Structurize IO Worker #0/INFO]: Registered structure pack: High Magic
+[21:59:67] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.19.2/HD_U.txt
+[21:59:71] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[21:59:71] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[21:59:85] [Structurize IO Worker #0/INFO]: Registered structure pack: 45
+[21:59:86] [Structurize IO Worker #0/INFO]: Registered structure pack: holyinkvizitor
+[21:59:87] [Structurize IO Worker #0/INFO]: Registered structure pack: inkvizitor
+[21:59:88] [Structurize IO Worker #0/WARN]: Error Reading Json: C:\Users\max\Desktop\new folder\EGOR_PIDR\blueprints\штл
+com.google.gson.JsonIOException: java.nio.charset.MalformedInputException: Input length = 1
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.internal.Streams.parse(Streams.java:62)
+	at TRANSFORMER/structurize@1.19.2-1.0.491-ALPHA/com.ldtteam.structurize.storage.StructurePacks.discoverPackAtPath(StructurePacks.java:624)
+	at TRANSFORMER/structurize@1.19.2-1.0.491-ALPHA/com.ldtteam.structurize.storage.ClientStructurePackLoader.lambda$onClientLoading$1(ClientStructurePackLoader.java:131)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762)
+	at TRANSFORMER/structurize@1.19.2-1.0.491-ALPHA/com.ldtteam.structurize.storage.ClientStructurePackLoader.lambda$onClientLoading$2(ClientStructurePackLoader.java:131)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.charset.MalformedInputException: Input length = 1
+	at java.base/java.nio.charset.CoderResult.throwException(CoderResult.java:274)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162)
+	at java.base/java.io.BufferedReader.read1(BufferedReader.java:213)
+	at java.base/java.io.BufferedReader.read(BufferedReader.java:287)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.stream.JsonReader.fillBuffer(JsonReader.java:1289)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1327)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:548)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.stream.JsonReader.peek(JsonReader.java:424)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.internal.Streams.parse(Streams.java:46)
+	... 9 more
+
+[21:59:88] [Structurize IO Worker #0/WARN]: Finished discovering Client Structure packs
+[21:59:14] [modloading-worker-0/INFO]: Forge mod loading, version 43.2.8, for MC 1.19.2 with MCP 20220805.130853
+[21:59:14] [modloading-worker-0/INFO]: MinecraftForge v43.2.8 Initialized
+[21:59:34] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
+[21:59:41] [modloading-worker-0/INFO]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[21:59:44] [modloading-worker-0/INFO]: [libIPN] libIPN - init in Kotlin
+[21:59:69] [modloading-worker-0/INFO]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[21:59:70] [modloading-worker-0/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[21:59:70] [modloading-worker-0/INFO]: Registering S2C receiver with id magistuarmory:packet_bc_or_ef_installed
+[21:59:48] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[21:59:48] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[21:59:48] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[21:59:48] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[21:59:22] [Render thread/INFO]: Registering Keybinds
+registering Keyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+[21:59:38] [Worker-Main-1/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:152)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.multiplayer.ProfileKeyPairManager.m_243396_(ProfileKeyPairManager.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[21:59:41] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[21:59:43] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources
+[21:59:53] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[21:59:53] [Render thread/INFO]: [OptiFine] Resource packs: Mod Resources
+[21:59:54] [Render thread/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[21:59:74] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[21:59:83] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList$SubList.get(ArrayList.java:1149)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:306)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:282)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.createFunction(MathBuilder.java:439)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:266)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:308)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:283)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.core.molang.MolangParser.parseSymbolsMolang(MolangParser.java:228)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.core.molang.MolangParser.parseOneLine(MolangParser.java:216)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.core.molang.MolangParser.parseExpression(MolangParser.java:174)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.core.molang.MolangParser.parseJson(MolangParser.java:154)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.parseExpression(JsonKeyFrameUtils.java:177)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJson(JsonKeyFrameUtils.java:55)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJsonToRotationKeyFrames(JsonKeyFrameUtils.java:171)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.util.json.JsonAnimationUtils.deserializeJsonToAnimation(JsonAnimationUtils.java:267)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.file.AnimationFileLoader.loadAllAnimations(AnimationFileLoader.java:30)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.resource.GeckoLibCache.lambda$reload$0(GeckoLibCache.java:72)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.resource.GeckoLibCache.lambda$loadResources$5(GeckoLibCache.java:90)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList$SubList.get(ArrayList.java:1149)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:306)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:282)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.createFunction(MathBuilder.java:439)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:266)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:308)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:283)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.core.molang.MolangParser.parseSymbolsMolang(MolangParser.java:228)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.core.molang.MolangParser.parseOneLine(MolangParser.java:216)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.core.molang.MolangParser.parseExpression(MolangParser.java:174)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.core.molang.MolangParser.parseJson(MolangParser.java:154)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.parseExpression(JsonKeyFrameUtils.java:177)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJson(JsonKeyFrameUtils.java:55)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJsonToRotationKeyFrames(JsonKeyFrameUtils.java:171)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.util.json.JsonAnimationUtils.deserializeJsonToAnimation(JsonAnimationUtils.java:267)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.file.AnimationFileLoader.loadAllAnimations(AnimationFileLoader.java:30)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.resource.GeckoLibCache.lambda$reload$0(GeckoLibCache.java:72)
+	at TRANSFORMER/geckolib3@3.1.40/software.bernie.geckolib3.resource.GeckoLibCache.lambda$loadResources$5(GeckoLibCache.java:90)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[21:59:10] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[21:59:53] [Worker-Main-3/INFO]: [OptiFine] Multitexture: false
+[21:59:64] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[21:59:66] [modloading-worker-0/WARN]: Reconfiguring logging for RS.
+[21:59:66] [modloading-worker-0/WARN]: Updated logging config. RS Debug logging enabled: false
+[21:59:67] [modloading-worker-0/WARN]: Reconfigured logging for RS.
+[21:59:78] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[21:59:95] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: jei:gui/icons/recipe_transfer, 7 -> 14
+[21:59:27] [Worker-Main-2/INFO]: Found @Ljourneymap/client/api/ClientPlugin;: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 4 clay_ball = 1 clay
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 4 snowball = 1 snow_block
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 4 glowstone_dust = 1 glowstone
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 4 brick = 1 bricks
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 4 nether_brick = 1 nether_bricks
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 4 quartz = 1 quartz_block
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 9 melon_slice = 1 melon
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 4 sand = 1 sandstone
+[21:59:30] [Worker-Main-3/INFO]: New compacting rule 4 red_sand = 1 red_sandstone
+[21:59:33] [Worker-Main-3/INFO]: New compacting rule 4 clay_ball = 1 clay
+[21:59:43] [Worker-Main-6/INFO]: Hello
+[21:59:59] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[21:59:91] [Render thread/INFO]: Initializing Packet Registries
+[21:59:03] [Worker-Main-4/INFO]: Optifine compat disabled. Reason: waiting for optifine to catch up with vanilla
+[21:59:03] [Worker-Main-3/WARN]: Key mapping key.category.vinery registered after event
+java.lang.RuntimeException
+	at TRANSFORMER/architectury@6.5.85/dev.architectury.registry.client.keymappings.forge.KeyMappingRegistryImpl.register(KeyMappingRegistryImpl.java:47)
+	at TRANSFORMER/architectury@6.5.85/dev.architectury.registry.client.keymappings.KeyMappingRegistry.register(KeyMappingRegistry.java)
+	at TRANSFORMER/vinery@1.3.4/satisfyu.vinery.event.KeyInputHandler.register(KeyInputHandler.java:23)
+	at TRANSFORMER/vinery@1.3.4/satisfyu.vinery.client.VineryClient.onInitializeClient(VineryClient.java:38)
+	at TRANSFORMER/vinery@1.3.4/satisfyu.vinery.forge.client.VineryClientForge.onClientSetup(VineryClientForge.java:21)
+	at TRANSFORMER/vinery@1.3.4/satisfyu.vinery.forge.client.__VineryClientForge_onClientSetup_FMLClientSetupEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at LAYER PLUGIN/javafmllanguage@1.19.2-43.2.8/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:107)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.2.8/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:122)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[21:59:11] [Forge Version Check/INFO]: [flywheel] Found status: AHEAD Current: 0.6.8.a-14 Target: null
+[21:59:11] [Forge Version Check/INFO]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[21:59:45] [Render thread/INFO]: Journeymap Initializing
+[21:59:48] [Render thread/INFO]: JourneyMap log initialized.
+[21:59:48] [Render thread/INFO]: initialize ENTER
+[21:59:49] [Render thread/INFO]: [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[21:59:49] [Render thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[21:59:51] [Render thread/INFO]: Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[21:59:57] [Forge Version Check/INFO]: [gravestone] Found status: UP_TO_DATE Current: 1.19.2-1.0.1 Target: null
+[21:59:57] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[21:59:68] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[21:59:68] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[21:59:92] [Render thread/INFO]: initialize EXIT, elapsed count 1 avg 459,47ms
+[21:59:02] [Forge Version Check/INFO]: [journeymap] Found status: UP_TO_DATE Current: 5.9.7 Target: null
+[21:59:02] [Forge Version Check/INFO]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[21:59:19] [Forge Version Check/INFO]: [guardvillagers] Found status: UP_TO_DATE Current: 1.19.2-1.5.6 Target: null
+[21:59:19] [Forge Version Check/INFO]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/Ship-Mod/main/update.json
+[21:59:24] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 4 path $.
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.Gson.fromJson(Gson.java:978)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.Gson.fromJson(Gson.java:928)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.Gson.fromJson(Gson.java:877)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.Gson.fromJson(Gson.java:848)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.2.8/net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.2.8/net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114)
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 4 path $.
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:490)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.stream.JsonReader.hasNext(JsonReader.java:413)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:184)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.Gson.fromJson(Gson.java:963)
+	... 6 more
+
+[21:59:24] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21:59:73] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 43.2.8 Target: 43.2.17
+[21:59:57] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[21:59:57] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[21:59:57] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[21:59:57] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[21:59:45] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_waffle_top_right_open_spec
+[21:59:45] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/trapdoors/trapdoor_waffle_spec
+[21:59:45] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_waffle_top_left_spec
+[21:59:45] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in vinery:block/eiswein
+[21:59:45] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_waffle_top_left_open_spec
+[21:59:45] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in domum_ornamentum:block/doors/door_waffle_top_right_spec
+[21:59:45] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in multipiston:block/multipistonblock
+[21:59:45] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in multipiston:item/multipistonblock
+[21:59:45] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[21:59:48] [Worker-Main-7/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[21:59:48] [Worker-Main-7/INFO]: [OptiFine] Multipass connected textures: false
+[21:59:50] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[21:59:53] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[21:59:53] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[21:59:54] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[21:59:55] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[21:59:56] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[21:59:57] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[21:59:58] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[21:59:59] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[21:59:60] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[21:59:61] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[21:59:61] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[21:59:62] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[21:59:62] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[21:59:63] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[21:59:64] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[21:59:64] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[21:59:67] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[21:59:68] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[21:59:69] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[21:59:70] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[21:59:71] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[21:59:72] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[21:59:72] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[21:59:73] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[21:59:74] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[21:59:75] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[21:59:75] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[21:59:76] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[21:59:77] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[21:59:77] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[21:59:78] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[21:59:78] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[21:59:79] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[21:59:80] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[21:59:81] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[21:59:81] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[21:59:81] [Worker-Main-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[21:59:81] [Worker-Main-7/INFO]: [OptiFine] Multipass connected textures: false
+[21:59:81] [Worker-Main-7/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[21:59:45] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 4
+[21:59:67] [Worker-Main-2/ERROR]: Using missing texture, file minecraft:textures/cannon_iron.png not found
+[21:59:79] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecolonies:gui/builderhut/builder_paper_sketch, 190 -> 192
+[21:59:79] [Worker-Main-7/WARN]: Texture minecolonies:gui/builderhut/builder_paper_sketch with size 192x246 limits mip level from 4 to 1
+[21:59:79] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecolonies:gui/builderhut/builder_paper, 190 -> 192
+[21:59:79] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecolonies:blocks/books/paper_graveyard, 52 -> 64
+[21:59:79] [Worker-Main-7/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
+[21:59:13] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[21:59:15] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[21:59:15] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[21:59:15] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: brewinandchewin:item/empty_container_slot_mug, 16 -> 64
+[21:59:15] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:59:15] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[21:59:16] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[21:59:23] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[21:59:23] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[21:59:24] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: brewinandchewin:item/empty_container_slot_mug, 16 -> 64
+[21:59:24] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:59:24] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[21:59:25] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[21:59:29] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[21:59:29] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[21:59:31] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: brewinandchewin:item/empty_container_slot_mug, 16 -> 64
+[21:59:31] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:59:31] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[21:59:34] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[21:59:35] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[21:59:35] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[21:59:35] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: brewinandchewin:item/empty_container_slot_mug, 16 -> 64
+[21:59:36] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:59:36] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[21:59:36] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[21:59:38] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[21:59:38] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[21:59:39] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: brewinandchewin:item/empty_container_slot_mug, 16 -> 64
+[21:59:39] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:59:39] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[21:59:39] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[21:59:42] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[21:59:42] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[21:59:42] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: brewinandchewin:item/empty_container_slot_mug, 16 -> 64
+[21:59:42] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:59:42] [Worker-Main-7/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[21:59:53] [Render thread/INFO]: Loaded all shader sources.
+[21:59:62] [Worker-Main-4/INFO]: Automatic pull animal configuration:
+pull_animals = [
+    "minecraft:donkey",
+    "minecraft:horse",
+    "minecraft:mule",
+    "minecraft:skeleton_horse",
+    "minecraft:zombie_horse",
+    "minecraft:player"
+  ]
+[21:59:63] [Worker-Main-7/WARN]: Register mappings
+[21:59:63] [Render thread/INFO]: Journeymap PostInit
+[21:59:64] [Render thread/ERROR]: Couldn't locate icons for flat: C:\Users\max\Desktop\new%20folder\EGOR_PIDR\mods\journeymap-1.19.2-5.9.7-forge.jar\assets\journeymap\theme\flat
+[21:59:66] [Render thread/INFO]: Preloaded theme textures: 0
+[21:59:67] [Render thread/INFO]: OptiFine detected.
+[21:59:67] [Render thread/INFO]: postInitialize EXIT, elapsed count 1 avg 35,05ms
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.builder.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.builder.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.deliveryman.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.deliveryman.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.miner.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.miner.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.lumberjack.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.lumberjack.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.farmer.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.farmer.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.undertaker.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.undertaker.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fisherman.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.fisherman.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.baker.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.baker.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cook.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cook.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.shepherd.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.shepherd.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cowboy.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.cowboy.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.swineherder.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.swineherder.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.chickenherder.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.chickenherder.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.smelter.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.smelter.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.ranger.male.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.ranger.female.good_housing
+[21:59:68] [Render thread/WARN]: Missing sound for event: minecolonies:mob.knight.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.knight.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.composter.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.composter.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.student.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.student.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.archertraining.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.archertraining.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.combattraining.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.combattraining.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sawmill.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sawmill.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.blacksmith.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.blacksmith.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonemason.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonemason.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonesmeltery.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.stonesmeltery.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.crusher.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.crusher.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sifter.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.sifter.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.florist.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.florist.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.enchanter.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.enchanter.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.researcher.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.researcher.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.healer.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.healer.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.pupil.male.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.pupil.female.good_housing
+[21:59:69] [Render thread/WARN]: Missing sound for event: minecolonies:mob.teacher.male.good_housing
+[21:59:70] [Render thread/WARN]: Missing sound for event: minecolonies:mob.teacher.female.good_housing
+[21:59:71] [Render thread/W

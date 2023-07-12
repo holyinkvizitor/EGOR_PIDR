@@ -1,0 +1,12 @@
+
+#.
+#Config for Automation related components
+[automation]
+	#.
+	#.
+	#Whether allowing Deployers to perform Cutting Board Recipes
+	enableCuttingBoardDeploying = true
+	#.
+	#List of Block Entities that can be boosted when placed on Blaze Stove
+	boostingCookerList = ["farmersdelight:cooking_pot", "farmersdelight:skillet", "farmersrespite:kettle", "miners_delight:copper_pot"]
+

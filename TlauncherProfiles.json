@@ -1,0 +1,15 @@
+{
+  "clientToken": "5cc3e9a3-d435-415e-92af-e7fadeecd484",
+  "accounts": {
+    "51f991a3c9ab49d69b1516bb754e874f": {
+      "username": "штл",
+      "userID": "штл",
+      "displayName": "штл",
+      "uuid": "51f991a3c9ab49d69b1516bb754e874f",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "51f991a3c9ab49d69b1516bb754e874f",
+  "freeAccountUUID": "51f991a3c9ab49d69b1516bb754e874f"
+}
